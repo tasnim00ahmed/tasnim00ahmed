@@ -5,7 +5,7 @@
 <div align="center">
 🌸 🌸 🌸
   
-Hi, I'm Tasneem 🧸
+Hi, I'm Tasnim 🧸
 Backend Developer | Code Enthusiast | Lifelong Learner ✨
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=26&duration=3000&pause=400&color=F7A1C4&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Node.js+%7C+Express+%7C+MongoDB;Building+APIs+%26+Web+Services;Growing+Every+Single+Day+%F0%9F%8C%B1;Passionate+about+Clean+Code" />
  
@@ -15,7 +15,7 @@ Backend Developer | Code Enthusiast | Lifelong Learner ✨
 <br>
 
 ```js
-const tasneem = {
+const tasnim = {
   role: "Backend Developer",
   location: "Egypt 🇪🇬",
   education: "Computer Science (AI Department)",
