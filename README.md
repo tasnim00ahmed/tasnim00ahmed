@@ -6,9 +6,11 @@
 
 # Hi, I'm Tasnim 👋
 
-**Big Data Engineer** · Data Pipeline Architect · Lifelong Learner ✨
+### Big Data Engineer · Data Pipeline Architect · Lifelong Learner ✨
 
-<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=24&duration=3000&pause=400&color=F7A1C4&center=true&vCenter=true&width=700&lines=Big+Data+Engineer+%F0%9F%9A%80;Apache+Spark+%7C+Kafka+%7C+Hadoop;Designing+Scalable+Data+Pipelines;Building+Real-Time+%26+Batch+Processing+Systems;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=22&duration=3000&pause=400&color=F7A1C4&center=true&vCenter=true&width=700&lines=Big+Data+Engineer+%F0%9F%9A%80;Apache+Spark+%7C+Kafka+%7C+Hadoop;Designing+Scalable+Data+Pipelines;Building+Real-Time+%26+Batch+Processing+Systems;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A" />
+
+</div>
 
 ---
 
@@ -23,13 +25,13 @@ const tasnim = {
   education: "Computer Science (AI Department)",
 
   techStack: {
-    processing:   ["Apache Spark", "Apache Flink", "MapReduce"],
-    streaming:    ["Apache Kafka", "Kafka Streams"],
-    storage:      ["HDFS", "Apache Hive", "Apache HBase", "Delta Lake"],
-    cloud:        ["AWS EMR", "S3", "Glue", "GCP BigQuery", "Dataproc"],
-    orchestration:["Apache Airflow", "Luigi"],
-    databases:    ["PostgreSQL", "Cassandra", "MongoDB", "Redis"],
-    tools:        ["Docker", "Kubernetes", "Git", "Linux", "Terraform"]
+    processing:    ["Apache Spark", "Apache Flink", "MapReduce"],
+    streaming:     ["Apache Kafka", "Kafka Streams"],
+    storage:       ["HDFS", "Apache Hive", "Apache HBase", "Delta Lake"],
+    cloud:         ["AWS EMR", "S3", "Glue", "GCP BigQuery", "Dataproc"],
+    orchestration: ["Apache Airflow"],
+    databases:     ["PostgreSQL", "Cassandra", "MongoDB", "Redis"],
+    tools:         ["Docker", "Kubernetes", "Git", "Linux", "Terraform", "Python"]
   },
 
   currentFocus: [
@@ -56,45 +58,39 @@ const tasnim = {
 
 **🔥 Distributed Processing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" title="Apache Spark"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="80" title="Hadoop"/>
-&nbsp;
-<img src="https://flink.apache.org/img/flink-header-logo.svg" width="80" title="Apache Flink"/>
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 **📡 Streaming & Messaging**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Apache Kafka"/>
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**🗄️ Storage & Databases**
+**🗄️ Storage & Data Warehousing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40" title="Cassandra"/>
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+
+**🔄 Orchestration**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 **☁️ Cloud Platforms**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **🛠️ Tools & DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -105,15 +101,15 @@ const tasnim = {
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnim00ahmed&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasnim00ahmed&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tasnim00ahmed&theme=rose-pine&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=tasnim00ahmed&theme=rose-pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim00ahmed&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim00ahmed&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 </details>
@@ -168,13 +164,13 @@ When I'm not engineering data systems, you'll find me:
 
 ---
 
+<div align="center">
+
 ### 📫 Let's Connect
 
 I'm always open to discussing **big data architecture**, **data pipeline design**, collaboration opportunities, or just geeking out over distributed systems!
 
-</div>
-
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/tasnim-ahmed">
   <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
