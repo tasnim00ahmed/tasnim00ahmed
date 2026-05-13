@@ -49,6 +49,8 @@ tasnim = {
 
   "mindset": "Growing step by step with consistency, curiosity, and kindness"
 }
+```
+
 </details> <details> <summary>🎀 Tech Stack</summary> <br>
 🌸 Big Data & Data Engineering
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
@@ -99,4 +101,4 @@ I'm always open to discussing Big Data, Data Engineering, learning opportunities
 
 ✨ Thank you for visiting! Feel free to explore my repositories and connect with me ✨
 
-</div> ```
+</div> 
