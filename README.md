@@ -58,14 +58,14 @@ tasnim = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 🌼 Tools & Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> </details> <details> <summary>📊 GitHub Stats</summary> <br> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tasnim00ahmed&show_icons=true&theme=rose_pine"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=tasnim00ahmed&theme=rose-pine"/> </p> </details> <details> <summary>🌱 What I'm Doing Right Now</summary> <br>
-📊 Learning Big Data technologies and distributed systems
-⚡ Building ETL pipelines with Python & SQL
-☁️ Exploring Cloud & Data Engineering concepts
-🗄️ Working with structured and unstructured data
-🐳 Learning Docker and containerized workflows
-🌸 Growing as a future Data Engineer every single day
-🎯 Improving problem-solving and analytical thinking
-🤝 Open to internships, collaboration, and learning opportunities
+- 📊 Learning Big Data technologies and distributed systems
+- ⚡ Building ETL pipelines with Python & SQL
+- ☁️ Exploring Cloud & Data Engineering concepts
+- 🗄️ Working with structured and unstructured data
+- 🐳 Learning Docker and containerized workflows
+- 🌸 Growing as a future Data Engineer every single day
+- 🎯 Improving problem-solving and analytical thinking
+- 🤝 Open to internships, collaboration, and learning opportunities
 </details> <details> <summary>🌸 Beyond Data</summary> <br>
 
 When I'm not studying data or coding, you'll find me:
